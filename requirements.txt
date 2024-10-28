@@ -1,0 +1,9 @@
+aiohttp>=3.8.0
+asyncpg>=0.27.0
+loguru>=0.7.0
+pydantic>=2.0.0
+tenacity>=8.2.2
+dbt-core>=1.5.0
+dbt-postgres>=1.5.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
